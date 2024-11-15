@@ -2,6 +2,8 @@
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/ar-to/strapi-backend)
 ![GitHub package.json prod dependency version](https://img.shields.io/github/package-json/dependency-version/ar-to/strapi-backend/%40strapi%2Fstrapi)
 
+**Note website is shared for reference to confirm strapi has deployed to Railway.app. Creds are created initially and new users not supported on this so you need to fork and deploy it yourself.**
+
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/dev-docs/cli) (CLI) which lets you scaffold and manage your project in seconds.
 
 ### `develop`
