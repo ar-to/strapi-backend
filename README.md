@@ -1,6 +1,6 @@
 # 🚀 Getting started with Strapi
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/ar-to/strapi-backend)
-![NPM Version](https://img.shields.io/npm/v/%40strapi%2Fstrapi?label=Strapi)
+![GitHub package.json prod dependency version](https://img.shields.io/github/package-json/dependency-version/ar-to/strapi-backend/%40strapi%2Fstrapi)
 
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/dev-docs/cli) (CLI) which lets you scaffold and manage your project in seconds.
 
